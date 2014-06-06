@@ -1,0 +1,27 @@
+{
+  "name": "x509-builder",
+  "version": "0.1.0",
+  "description": "x509 certificate builder from buffer(tls)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorkie/node-x509-builder.git"
+  },
+  "keywords": [
+    "x509",
+    "tls",
+    "builder"
+  ],
+  "author": "Yorkie Neil <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkie/node-x509-builder/issues"
+  },
+  "homepage": "https://github.com/yorkie/node-x509-builder",
+  "dependencies": {
+    "x509": "0.0.7"
+  }
+}
